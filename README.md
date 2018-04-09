@@ -1,8 +1,11 @@
 # sbp
 
 Package: sbpdata
+
 Type: Package
+
 Title: Systolic Blood Pressure Data
+
 Version: 0.1.0
 Author: Statistical Society of Canada
 Maintainer: Dwight Barry <dwight.barry@seattlechildrens.org>
